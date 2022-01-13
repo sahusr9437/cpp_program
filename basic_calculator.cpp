@@ -17,6 +17,11 @@ class Arithmetic
 	{
 		return a+b;
 	}
+	//function to subtract two number
+	int subtract()
+	{
+		return a-b;
+	}
 };
 int main()
 {
@@ -28,7 +33,7 @@ int main()
 	cout<<endl;
 	//decare the object of Arithmatic clas
 	Arithmetic obj1(num1,num2);
-	cout<<"Addition of 2 given number is  "<<obj1.add()<<endl;
-	
+	cout<<"Addition of two given number is  "<<obj1.add()<<endl;
+	cout<<"Subtraction of two given number is  "<<obj1.subtract()<<endl;
 	return 0;
 }
