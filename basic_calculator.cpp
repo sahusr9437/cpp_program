@@ -17,7 +17,7 @@ class Arithmetic
 	{
 		return a+b;
 	}
-	//function to subtract two number
+	//function to subtract 2 number
 	int subtract()
 	{
 		return a-b;
