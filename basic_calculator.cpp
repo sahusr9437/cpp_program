@@ -28,7 +28,7 @@ int main()
 	cout<<endl;
 	//decare the object of Arithmatic clas
 	Arithmetic obj1(num1,num2);
-	cout<<"Addition of 2 number is  "<<obj1.add()<<endl;
+	cout<<"Addition of 2 given number is  "<<obj1.add()<<endl;
 	
 	return 0;
 }
