@@ -23,7 +23,7 @@ int main()
 	//declare variables
 	int num1,num2;
 	//take 2 input
-	cout<<"Enter 2 number:  ";
+	cout<<"Enter two number:  ";
 	cin>>num1 >>num2;
 	cout<<endl;
 	//decare the object of Arithmatic clas
